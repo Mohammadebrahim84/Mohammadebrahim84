@@ -11,7 +11,7 @@
 
 ## 🔧 My Skills:
 
-### 💻 Front-End Development:
+## 💻 Front-End Development:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=black)
 <br>
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=black)
@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-### :man::computer: Programming Languages:
+## :man::computer: Programming Languages:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=black)
 <br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black)
@@ -28,7 +28,7 @@
 
 
 
-### :books: Libraries & Frameworks:
+## :books: Libraries & Frameworks:
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black)
 <br>
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=black)
@@ -40,11 +40,14 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black)
 
 
-## :wrench: Version Control Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<br>
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<br>
 
+
+## :iphone: Social Accounts:
+- [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&label=&shape=circle)](https://t.me/mohammadebrahim_1384)
+- [![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&label=&shape=circle)](https://www.instagram.com/mohammadebrahims_1384)
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadebrahim84&hide_progress=true&layout=compact&theme=dark&langs_count=10" />
+<br/>
+
+<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg"/>
