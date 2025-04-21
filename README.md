@@ -27,6 +27,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)<br>
 
 
+
 ### :books: Libraries & Frameworks:
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black)
 <br>
@@ -37,3 +38,13 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=black)
 <br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black)
+
+
+## :wrench: Version Control Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<br>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadebrahim84&hide_progress=true&layout=compact&theme=dark&langs_count=10" />
