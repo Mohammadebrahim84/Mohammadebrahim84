@@ -51,3 +51,16 @@
 <br/>
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg"/>
+<br/>
+
+## :pushpin: About Me:
+🎯 Front-End Developer with a passion for crafting clean, responsive, and user-friendly interfaces.
+<br/>
+💻 Skilled in Vue.js, JavaScript, HTML, and CSS.
+<br/>
+🌱 Always learning, always building.
+<br/>
+✨ Looking to level up my GitHub profile and connect with like-minded devs
+
+
+
