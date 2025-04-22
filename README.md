@@ -43,8 +43,10 @@
 
 
 ## :iphone: Social Accounts:
-- [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&label=&shape=circle)](https://t.me/mohammadebrahim_1384)
-- [![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&label=&shape=circle)](https://www.instagram.com/mohammadebrahims_1384)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&label=&shape=circle)](https://t.me/mohammadebrahim_1384)
+<br/>
+[![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&label=&shape=circle)](https://www.instagram.com/mohammadebrahims_1384)
+<br/>
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadebrahim84&hide_progress=true&layout=compact&theme=dark&langs_count=10" />
@@ -60,7 +62,11 @@
 <br/>
 🌱 Always learning, always building.
 <br/>
-✨ Looking to level up my GitHub profile and connect with like-minded devs
+☕ Coding, drinking coffee, and working out are my hobbies.
+<br/>
+✨ Looking to level up my GitHub profile and connect with like-minded devs.
+
+
 
 
 
